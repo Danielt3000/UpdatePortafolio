@@ -1,10 +1,10 @@
 # Portfolio
 This portfolio is a small project using HTML/ CSS and Boostrap. I will be using this to show cas my projects  [Live heroku Deployment](https://portfolio-oscar.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/44600820/146299495-d1374074-1109-4800-8b4f-213bef4e3445.png)
+![image](![port](https://user-images.githubusercontent.com/44600820/182969482-b6f0de4a-22fd-429a-b417-4a860f2da986.png)
 
 # Technologies Used
-*HTML *CSS
+*HTML *CSS *React *JSX *JS
 
 # Installation 
 No need to install any software, just open up index.html
